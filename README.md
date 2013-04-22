@@ -14,3 +14,4 @@ FoldingImageView *foldingView = [[[FoldingImageView alloc] initWithImage:[UIImag
 That's all!
 
 And you can fold it by swipes, open and close by methods, setup count of bends, offsets, change image...
+Usage is in sample project.
